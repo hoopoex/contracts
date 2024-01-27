@@ -1,4 +1,4 @@
-# HOOPX Diamond Project 🚀
+# HOOPX Diamond Project
 
 ## Used technologies:
 
