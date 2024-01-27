@@ -1,0 +1,27 @@
+node_modules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+/types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+/package-lock.json
+
+/scripts/distribution
+/scripts/hoop
+/scripts/reserve
+/scripts/test
+/scripts/testnet
+/libs/merkledata.json
+
+
+
